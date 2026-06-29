@@ -6,6 +6,7 @@ A Python tool that reads a WhatsApp chat export and generates a full personality
 **Name:** Harshil Chauhan
   
 **Personal Output ScreenShots**
+  
 <img width="635" height="720" alt="Screenshot 2026-06-29 155858" src="https://github.com/user-attachments/assets/f759325d-e59c-462d-8363-5e71811b0d1f" />
 
 <img width="608" height="616" alt="Screenshot 2026-06-29 155915" src="https://github.com/user-attachments/assets/6a69a7d0-31bc-4966-9f9b-0f8d0083a3c4" />
