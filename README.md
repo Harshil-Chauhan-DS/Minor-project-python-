@@ -2,7 +2,7 @@
 Unlox Academy Minor Project 1 of the data science course, showcasing basic data analytics and data handling
 # GroupDNA - Whatsapp Group Chat decoder
 A Python tool that reads a WhatsApp chat export and generates a full personality and activity report about your group — who spams, who ghosts, who's up at 3am, and what words you're all obsessed with.
-  
+
 **Name:** Harshil Chauhan
   
 **Personal Output ScreenShots**
@@ -37,6 +37,7 @@ Only Python fundamentals + NumPy + datetime
 To run on your own WhatsApp chat:
 
 # how to run
+# It should be in DD/MM/YY format to work, or change the %y to %Y in thier respective cells if youre using DD/MM/YYYY format.
 Open any WhatsApp group → three dots → More → Export chat → Without media
 Save the .txt file next to the notebook
 Enter the filename
